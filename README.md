@@ -1,4 +1,6 @@
-## Hi there 👋
+# Salutations and fine greetings!
+
+### My name is Gabriel Reynolds and I am the greatest programmer to ever exist.
 
 <!--
 **gabeisprofessional/gabeisprofessional** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
