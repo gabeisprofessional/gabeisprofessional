@@ -4,7 +4,8 @@
 
   <img width="211" height="277" alt="Tobey" src="https://github.com/user-attachments/assets/309f4793-71a2-4942-a205-ead9287d72f7" />
   
-"With great power comes great responsibility" -Gabriel Maquire
+"With great power comes great responsibility" 
+-Gabriel Maquire
 
 
 <!--
