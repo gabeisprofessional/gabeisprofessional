@@ -2,7 +2,7 @@
 
 ### My name is Gabriel Reynolds and I am the greatest programmer to ever exist.
 
-![White Guy] (<img width="259" height="393" alt="big man 37" src="https://github.com/user-attachments/assets/f3869987-734e-40b3-aa34-3fc50a82df74" />)
+<img width="259" height="393" alt="big man 37" src="https://github.com/user-attachments/assets/f3869987-734e-40b3-aa34-3fc50a82df74" />
 
 
 <!--
